@@ -6,33 +6,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; Finally, the processed and unprocessed images will be stored in the folder.
 
-
-<figure>
-  <figcaption>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Cat</figcaption>
-  <br><img src="https://github.com/josezapiz/Image-Processing-Projects/assets/101471178/94c7986f-583a-4b77-b6df-5c30588e1d34" alt="Cat" width="300" height="200"><br>
-</figure>
-
-<figure>
-  <figcaption>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Gray</figcaption>
-  <br><img src="https://github.com/josezapiz/Image-Processing-Projects/assets/101471178/527c3447-33cc-47d6-8118-350d093c7c65" alt="Gray" width="300" height="200"><br>
-</figure>
-
-<figure>
-  <figcaption>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Solar64</figcaption>
-  <br><img src="https://github.com/josezapiz/Image-Processing-Projects/assets/101471178/d3fe194a-b020-4c25-9373-45b9566f369a" alt="Solar64" width="300" height="200"><br>
-</figure>
-
-<figure>
-  <figcaption>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Solar128</figcaption>
-  <br><img src="https://github.com/josezapiz/Image-Processing-Projects/assets/101471178/8058eb85-efec-49d1-9236-bc1ea64417b0" alt="Solar128" width="300" height="200"><br>
-</figure>
-
-<figure>
-  <figcaption>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Solar192</figcaption>
-  <br><img src="https://github.com/josezapiz/Image-Processing-Projects/assets/101471178/12861be8-b0fe-4981-b6d6-13d48848a107" alt="Solar192" width="300" height="200"><br>
-</figure>
-
-
+| Cat Original | Gray | Solar64 | Solar128 | Solar192 |
+| ------- | ------- | ------- | ------- | ------- |
+| ![Image5](https://github.com/josezapiz/Image-Processing-Projects/assets/101471178/94c7986f-583a-4b77-b6df-5c30588e1d34) | ![Image 1](https://github.com/josezapiz/Image-Processing-Projects/assets/101471178/527c3447-33cc-47d6-8118-350d093c7c65) | ![Image 2](https://github.com/josezapiz/Image-Processing-Projects/assets/101471178/d3fe194a-b020-4c25-9373-45b9566f369a) | ![Image 3](https://github.com/josezapiz/Image-Processing-Projects/assets/101471178/8058eb85-efec-49d1-9236-bc1ea64417b0) | ![Image 4](https://github.com/josezapiz/Image-Processing-Projects/assets/101471178/12861be8-b0fe-4981-b6d6-13d48848a107) |
 
 
 
