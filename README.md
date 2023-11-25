@@ -2,9 +2,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp; University projects of the integrated master's Image Processing course
 
 ## Solirization exercise description:
-&nbsp;&nbsp;&nbsp;&nbsp; The function solarize is implemented for the code of the first part in order to be used for threshold values: 64, 128, 192 on an image that will first be converted to grayscale. 
+&nbsp;&nbsp;&nbsp;&nbsp; Using OpenCV, the function *solarize* is implemented for this exercise in order to be used for threshold values: 64, 128, 192 on an image that will first be converted to grayscale. 
 
-&nbsp;&nbsp;&nbsp;&nbsp; Finally, the processed and unprocessed images will be stored in the folder. The OpenCV library is used to develop the code.
+&nbsp;&nbsp;&nbsp;&nbsp; Finally, the processed and unprocessed images will be stored in the folder.
 
 
 <figure>
